@@ -17,6 +17,7 @@ hr{
 }
 .hrblanco{
     border-color: white;
+    width: 275px;
 }
 .hrnegro{
     border-color: black;
@@ -30,4 +31,16 @@ h3{
     font-family: 'Mukta', sans-serif;
     font-weight: 800;
     font-size: 25px;
+}
+
+h4{
+    font-family: 'Mukta', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+}
+}
+h5{
+    font-family: 'Mukta', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
 }
